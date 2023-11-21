@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\game\src\Asteroids.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Bonus.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\GlobalContainers.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\GUI.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Meteor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\RenderObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Screen.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\ScreenEnding.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\ScreenGameplay.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\ScreenLogo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\ScreenTitle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Subject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\game\src\Torpedo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\game\src\Asteroids.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Bonus.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\GlobalContainers.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\GUI.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Meteor.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Observer.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Player.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\RenderObject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Screen.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\ScreenEnding.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\ScreenGameplay.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\ScreenLogo.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\ScreenTitle.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Subject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Torpedo.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\game\src\Utils.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{6f9d7400-a451-41c4-bd7f-01f937b54ac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{88862962-9077-4ca5-ace5-d3fedca80c71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
